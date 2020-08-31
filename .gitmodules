@@ -1,0 +1,3 @@
+[submodule "OS_SmallBash"]
+	path = OS_SmallBash
+	url = https://github.com/bestcoder2019/os_hw1.git
